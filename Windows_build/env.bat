@@ -68,8 +68,8 @@ rem will take the -batch option and others won't.
 rem (see notes on Cygwin rsync below)
 	if not defined BZR_SSH (set BZR_SSH=plink.exe)
 	if not defined CVS_RSH (set CVS_RSH=plink.exe -batch)
-	if not defined GIT_SSH (set GIT_SSH=plink.exe -batch)
-	if not defined SVN_SSH (set SVN_SSH=plink.exe)
+	if not defined GIT_SSH (set GIT_SSH=plink.exe)
+	if not defined SVN_SSH (set SVN_SSH=plink.exe -batch)
 
 rem CVSIGNORE already contains *~ and *.bak
 	if not defined CVSIGNORE (set CVSIGNORE=*.tmp ~$*)
