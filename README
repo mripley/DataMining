@@ -1,0 +1,8 @@
+
+Test by Matt Hayden
+Please someone else make an alteration here so I know what conflicting merges
+look like. I was surprised to see that compression is handled by git, so I will
+plan on uploading uncompressed text tables. 
+
+2012-03-06	mh	I added my example build environment to the Windows_build
+directory. Maybe this is helpful to someone.

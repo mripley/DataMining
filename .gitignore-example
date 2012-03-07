@@ -1,0 +1,50 @@
+### ~/.gitignore_global, for example
+### See http://help.github.com/ignore-files/
+
+### Use this in git by:
+##		git config --global core.excludesfile ~/.gitignore_global
+### This will modify your ~/.gitconfig.
+
+~$*
+*~
+*.bak
+*.swp
+*.tmp
+tmp/**/* 
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.bz2
+*.dmg
+*.gz
+*.jar
+*.lzma
+*.lzip
+*.lzop
+*.rar
+*.tbz2
+*.tgz
+*.xz
+*.zip
+
+# Logs #
+######################
+*.log
+
+# OS generated files #
+######################
+.DS_Store*
+[Dd]esktop.[Ii][Nn][Ii]
+[Tt]humbs.[Dd][Bb]
