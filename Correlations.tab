@@ -1,0 +1,282 @@
+Factor	Sig	N	R	Reaches Statistical Significance
+SeasonalKgal	0.000	1188	0.966	Yes
+Outdoor total gal	0.000	1146	0.783	Yes
+Outdoor GPD	0.000	1146	0.719	Yes
+survey_home_value	0.000	4331	0.534	Yes
+Indoor GPD	0.000	1187	0.444	Yes
+Indoor total gal	0.000	1187	0.434	Yes
+survey_indoor_sqft	0.000	4540	0.431	Yes
+survey_household_income	0.000	4199	0.426	Yes
+NonseasonalKgal	0.000	1188	0.414	Yes
+survey_monthly_rent	0.000	504	0.395	Yes
+Faucet total gal	0.000	1187	0.358	Yes
+Faucet gpd	0.000	1187	0.352	Yes
+irrigated_area_sqft	0.000	1130	0.346	Yes
+Other total gal	0.000	1099	0.297	Yes
+Clotheswasher total gal	0.000	1160	0.294	Yes
+Clotheswasher gpd	0.000	1160	0.292	Yes
+Clotheswasher events	0.000	1160	0.286	Yes
+Clotheswasher loads per day	0.000	1160	0.284	Yes
+Other gpd	0.000	1099	0.277	Yes
+Leak total gal	0.000	1184	0.259	Yes
+Leak gpd	0.000	1184	0.251	Yes
+Faucet events	0.000	1187	0.244	Yes
+Shower total gal	0.000	1178	0.236	Yes
+capita	0.000	5106	0.235	Yes
+Shower events	0.000	1178	0.231	Yes
+Shower gpd	0.000	1178	0.231	Yes
+Showers per day	0.000	1178	0.227	Yes
+Shower minutes per day	0.000	1178	0.200	Yes
+Number of flushes greater than 2_2 Gal	0.000	1187	0.188	Yes
+survey_highest_grade	0.000	4909	0.178	Yes
+Average shower mode flow gpm	0.000	1178	0.154	Yes
+Average shower gal	0.000	1178	0.148	Yes
+KEYCODE	0.000	5106	0.121	Yes
+Bathtub total gal	0.008	725	0.099	Yes
+Other events	0.006	1099	0.083	Yes
+Dishwasher events	0.017	905	0.079	Yes
+Average clotheswasher load gal	0.010	1160	0.075	Yes
+survey_homies	0.000	5013	0.074	Yes
+Average toilet flush volume	0.013	1187	0.072	Yes
+Leak events	0.013	1184	0.072	Yes
+Dishwasher total gal	0.032	906	0.071	Yes
+Bathtub gpd	0.089	725	0.060	No
+Bathtub events	0.163	725	0.050	No
+Dishwasher gpd	0.104	906	0.050	No
+survey_drought	0.005	3935	0.045	Yes
+Number of flushes less than 2_2 Gal	0.106	1187	0.040	No
+survey_landscape_pct	0.159	4084	0.020	No
+Average shower seconds	0.675	1178	0.010	No
+Survey_Car_Washed	0.470	5025	0.010	No
+survey_landscape_turf_pct	0.011	4183	-0.030	Yes
+reuws1_attitude_A	0.001	4946	-0.040	Yes
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+survey_number_of_adults	0.000	5077		
+0	"5,077.000"	.470**		
+0	.470**	9.685E-277		
+survey_number_of_bathroom_sinks	0.000	5062		
+0	"5,062.000"	.359**		
+0	.359**	7.5364E-155		
+survey_number_of_bathtubs	0.000	5106		
+0	"5,106.000"	.111**		
+0	.111**	2.19195E-15		
+survey_number_of_children	0.000	5106		
+0	"5,106.000"	.159**		
+0	.159**	2.98516E-30		
+survey_number_of_kitchen_sinks	0.000	5079		
+0	"5,079.000"	.452**		
+0	.452**	5.1007E-256		
+survey_number_of_showers	0.000	5106		
+0	"5,106.000"	.234**		
+0	.234**	6.43155E-60		
+survey_number_of_showers_lfsh	0.000	4720		
+0	"4,720.000"	.120**		
+0	.120**	9.76162E-18		
+survey_number_of_teenagers	0.000	5106		
+0	"5,106.000"	.462**		
+0	.462**	1.1269E-267		
+survey_number_of_toilets	0.000	5099		
+0	"5,099.000"	.202**		
+0	.202**	6.2883E-43		
+survey_number_of_toilets_16	0.000	4528		
+0	"4,528.000"	.108**		
+0	.108**	3.27672E-12		
+survey_number_of_utility_sinks	0.000	4158		
+0	"4,158.000"	.275**		
+0	.275**	1.95876E-60		
+survey_number_of_whirlpools	0.000	3429		
+0	"3,429.000"	.372**		
+0	.372**	1.8526E-132		
+survey_parcel_sqft	0.000	4034		
+0	"4,034.000"	.170**		
+0	.170**	5.625E-34		
+survey_walk_washed	0.000	5013		
+0	"5,013.000"	.204**		
+0	.204**	7.95363E-47		
+survey_year_built	0.000	4878		
+0	"4,878.000"	.090**		
+0	.090**	2.40524E-10		
+survey_year_moved_in	0.000	4983		
+0	"4,983.000"	0		
+0	0.000	0		
+**. Correlation is significant at the 0.01 level (2-tailed).	0.000	0		
+*. Correlation is significant at the 0.05 level (2-tailed).	0.000	0		
+0	0.000	0		
+0	0.000	0		
+Correlations	0.000	0		
+0	0.000	0		
+0	0.000	0		
+[DataSet1] S:\local\home\matt\csci7000-003\Project\DataMining\Dataset\sample5574.sav	0.000	0		
+0	0.000	AnnualKgal		
+Correlations	AnnualKgal	1		
+0	1.000	0		
+AnnualKgal	0.000	5106		
+0	"5,106.000"	.213**		
+0	.213**	1.17419E-13		
+Toilet events	0.000	1187		
+0	"1,187.000"	.182**		
+0	.182**	2.89627E-10		
+Toilet flush stdev	0.000	1186		
+0	"1,186.000"	.228**		
+0	.228**	1.99984E-15		
+Toilet gpd	0.000	1187		
+0	"1,187.000"	.231**		
+0	.231**	7.51146E-16		
+Toilet total gal	0.000	1187		
+0	"1,187.000"	.763**		
+0	.763**	5.9864E-227		
+Total GPD	0.000	1187		
+0	"1,187.000"	.236**		
+0	.236**	2.31224E-16		
+Total shower gal	0.000	1178		
+0	"1,178.000"	.203**		
+0	.203**	2.20293E-12		
+Total shower minutes	0.000	1178		
+0	"1,178.000"	.815**		
+0	.815**	2.0605E-283		
+Total Volume	0.000	1187		
+0	"1,187.000"	0		
+0	0.000	0		
