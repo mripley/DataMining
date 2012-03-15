@@ -1,0 +1,13 @@
+Number,Weather,Sobriety,Violation,Seat_belt,Severity
+1,Good,Impaired,Exceed speed limit,No,Major
+2,Bad,Sober,None,Yes,Minor
+3,Good,Sober,Disobey stop sign,Yes,Minor
+4,Good,Sober,Exceed speed limit,Yes,Major
+5,Bad,Sober,Disobey stop sign,No,Major
+6,Good,Impaired,Disobey stop sign,Yes,Minor
+7,Bad,Impaired,None,Yes,Major
+8,Good,Sober,Disobey stop sign,Yes,Major
+9,Good,Impaired,None,No,Major
+10,Bad,Sober,Disobey stop sign,No,Major
+11,Good,Impaired,Exceed speed limit,Yes,Major
+12,Bad,Sober,Disobey stop sign,Yes,Minor
