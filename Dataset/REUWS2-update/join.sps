@@ -20,6 +20,8 @@ ADD FILES
 /file="Fort_Collins/Normalized.sav"
 /file="Scottsdale/Normalized.sav"
 .
+variable level NonseasonalKgal (scale) utility (nominal).
+EXECUTE.
 
 cd "S:\local\home\matt".
 cd "Data_Mining_project\Dataset\REUWS2-update".
