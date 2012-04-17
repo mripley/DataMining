@@ -20,10 +20,11 @@ ADD FILES
 /file="Fort_Collins/Normalized.sav"
 /file="Scottsdale/Normalized.sav"
 .
+dataset name AnalysisTable.
 *
 * Cleanup
 *.
-variable level NonseasonalKgal (scale) utility (nominal).
+variable level SurveyID (nominal) NonseasonalKgal (scale) utility (nominal).
 EXECUTE.
 
 cd 'S:\local\home\matt'.
